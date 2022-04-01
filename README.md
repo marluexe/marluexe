@@ -4,7 +4,7 @@
 <ul>
     <li>Meu nome real é Marllon Junior. :boy:</li>
     <li>Sou Desenvolvedor Front-end e criador de Bots :robot:</li>
-    <li>Tenho experiência em Photoshop. :star2:</li>
+    <li>Tenho experiência em Python, Php, Js etc... :star2:</li>
 </ul>
 <a href="https://discord.com/users/334028550145572864"><img src="https://img.shields.io/badge/-@Marlu.π_%236190-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 <a href="https://www.patreon.com/marluexe"><img src="https://img.shields.io/badge/Donate-Patreon-F96854.svg" alt="Patreon" /></a>  
