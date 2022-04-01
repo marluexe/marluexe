@@ -7,13 +7,13 @@
     <li>Tenho experiência em Photoshop. :star2:</li>
 </ul>
 <a href="https://discord.com/users/334028550145572864"><img src="https://img.shields.io/badge/-@Marlu.π_%236190-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
-<a href="https://www.patreon.com/eomarlu"><img src="https://img.shields.io/badge/Donate-Patreon-F96854.svg" alt="Patreon" /></a>  
+<a href="https://www.patreon.com/marluexe"><img src="https://img.shields.io/badge/Donate-Patreon-F96854.svg" alt="Patreon" /></a>  
 
 
 <h3 align="left">:computer: <b>|</b> Conexões Atuais:</h3>
 <p align="left">
-<a href="https://twitter.com/byKrypton" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ydroxz" height="30" width="40" /></a>
-<a href="https://instagram.com/byKrypton" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ydroxz" height="30" width="40" /></a>
+<a href="https://twitter.com/marlu.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ydroxz" height="30" width="40" /></a>
+<a href="https://instagram.com/marlu.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ydroxz" height="30" width="40" /></a>
 <a href="https://discord.gg/nNARQUgSuX" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/nNARQUgSuX" height="30" width="40" /></a>
 </p>
 </p>
