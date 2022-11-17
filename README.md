@@ -2,8 +2,8 @@
 <br><h1 align="left">:zap: <b>|</b> Marlu π</h1>
 <h3 align="left">:gem: Programador e Designer :gem:</h3>
 <ul>
-    <li>Meu nome real é Marllon Junior. :boy:</li>
-    <li>Sou Desenvolvedor Front-end e criador de Bots :robot:</li>
+    <li>Meu nome real é Marllon Oliveira. :boy:</li>
+    <li>Sou Desenvolvedor Front-end Ui Design e Video Mker :robot:</li>
     <li>Tenho experiência em Python, Php, Js etc... :star2:</li>
 </ul>
 <a href="https://discord.com/users/334028550145572864"><img src="https://img.shields.io/badge/-@Marlu.π_%236190-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
